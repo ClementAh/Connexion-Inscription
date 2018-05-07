@@ -56,6 +56,5 @@ if(isset($_POST['validation'])) { // si le bouton "Connexion" est appuyé
 
 }
 
-
 ?>
 
